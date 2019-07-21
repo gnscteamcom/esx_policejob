@@ -3,7 +3,7 @@
  ESX Police Job w Mythic Notifications
 
 
-Extract files into your Resources Folder
+Extract files into your Resources Folder.
 
 start esx_policejob 
 
